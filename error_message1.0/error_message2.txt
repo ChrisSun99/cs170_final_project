@@ -1,0 +1,704 @@
+./outputs/307_200.out
+./inputs/307_200.in ./outputs/307_200.out 0.2709659171262905
+./outputs/207_200.out
+Warning: ./inputs/207_200.in ./outputs/207_200.out 459.0 0.6954545454545454
+./outputs/250_50.out
+./inputs/250_50.in ./outputs/250_50.out 0.20111111111111113
+./outputs/273_100.out
+./inputs/273_100.in ./outputs/273_100.out 0.40540540540540543
+./outputs/46_50.out
+./inputs/46_50.in ./outputs/46_50.out 0.3974746928651345
+./outputs/85_100.out
+./inputs/85_100.in ./outputs/85_100.out 0.25517865529388656
+./outputs/114_50.out
+Warning: ./inputs/114_50.in ./outputs/114_50.out 6513978.0 0.5957457900046615
+./outputs/151_50.out
+./inputs/151_50.in ./outputs/151_50.out 0.3703703703703704
+./outputs/319_200.out
+./inputs/319_200.in ./outputs/319_200.out 0.08351370851370851
+./outputs/210_100.out
+./inputs/210_100.in ./outputs/210_100.out 0.13314325719614725
+./outputs/219_200.out
+./inputs/219_200.in ./outputs/219_200.out 0.02666666666666667
+./outputs/364_200.out
+./inputs/364_200.in ./outputs/364_200.out 0.38364779874213834
+./outputs/264_200.out
+./inputs/264_200.in ./outputs/264_200.out 0.4276002719238613
+./outputs/116_50.out
+./inputs/116_50.in ./outputs/116_50.out 0.4068869978230754
+./outputs/153_50.out
+Warning: ./inputs/153_50.in ./outputs/153_50.out 75642760612.12343 0.4879067308966754
+./outputs/44_50.out
+Warning: ./inputs/44_50.in ./outputs/44_50.out 3848.6666666666665 0.5971554176364107
+./outputs/104_200.out
+./inputs/104_200.in ./outputs/104_200.out 0.2916730767258443
+./outputs/45_200.out
+./inputs/45_200.in ./outputs/45_200.out 0.4120914430029799
+./outputs/217_50.out
+./inputs/217_50.in ./outputs/217_50.out 0.3737824326067252
+./outputs/252_50.out
+Warning: ./inputs/252_50.in ./outputs/252_50.out 3959.4266666666676 0.4923423053743547
+./outputs/31_100.out
+Warning: ./inputs/31_100.in ./outputs/31_100.out 37666666.666666664 0.509009009009009
+./outputs/179_200.out
+Warning: ./inputs/179_200.in ./outputs/179_200.out 734.0097999999999 0.4695453978448538
+./outputs/38_200.out
+./inputs/38_200.in ./outputs/38_200.out 0.37360715534902317
+./outputs/170_100.out
+./inputs/170_100.in ./outputs/170_100.out 0.45
+./outputs/52_100.out
+./inputs/52_100.in ./outputs/52_100.out 0.3758854822363034
+./outputs/113_100.out
+./inputs/113_100.in ./outputs/113_100.out 0.3369120654396728
+./outputs/167_200.out
+./inputs/167_200.in ./outputs/167_200.out 0.40650406504065045
+./outputs/26_200.out
+Warning: ./inputs/26_200.in ./outputs/26_200.out 4305.666666666666 0.5132514801128462
+./outputs/57_200.out
+./inputs/57_200.in ./outputs/57_200.out 0.2769302784884802
+./outputs/116_200.out
+./inputs/116_200.in ./outputs/116_200.out 0.34439834024896265
+./outputs/337_50.out
+./inputs/337_50.in ./outputs/337_50.out 0.38095238095238093
+./outputs/162_100.out
+./inputs/162_100.in ./outputs/162_100.out 0.31888339632900353
+./outputs/23_100.out
+./inputs/23_100.in ./outputs/23_100.out 0.284789644012945
+./outputs/49_200.out
+./inputs/49_200.in ./outputs/49_200.out 0.448564690574937
+./outputs/101_100.out
+./inputs/101_100.in ./outputs/101_100.out 0.37789203084832906
+./outputs/40_100.out
+./inputs/40_100.in ./outputs/40_100.out 0.4062949751773649
+./outputs/84_50.out
+./inputs/84_50.in ./outputs/84_50.out 0.2947392602802664
+./outputs/108_200.out
+Warning: ./inputs/108_200.in ./outputs/108_200.out 12015999605.333334 0.9756370223083747
+./outputs/34_200.out
+Warning: ./inputs/34_200.in ./outputs/34_200.out 56.666666666666664 0.4533333333333333
+./outputs/175_200.out
+./inputs/175_200.in ./outputs/175_200.out 0.1759534292269357
+./outputs/79_50.out
+./inputs/79_50.in ./outputs/79_50.out 0.12400338755444885
+./outputs/297_200.out
+Warning: ./inputs/297_200.in ./outputs/297_200.out 45090.0 0.7054681999530626
+./outputs/61_200.out
+./inputs/61_200.in ./outputs/61_200.out 0.23681551537828743
+./outputs/120_200.out
+Warning: ./inputs/120_200.in ./outputs/120_200.out 100.0 1.0
+./outputs/68_100.out
+./inputs/68_100.in ./outputs/68_100.out 0.19659921304103428
+./outputs/356_50.out
+./inputs/356_50.in ./outputs/356_50.out 0.4313725490317119
+./outputs/6_50.out
+./inputs/6_50.in ./outputs/6_50.out 0.26432547988517363
+./outputs/154_100.out
+Warning: ./inputs/154_100.in ./outputs/154_100.out 986.6666666666666 0.6577777777777778
+./outputs/15_100.out
+./inputs/15_100.in ./outputs/15_100.out 0.38411665411733753
+./outputs/18_50.out
+Warning: ./inputs/18_50.in ./outputs/18_50.out 123.494 0.5078339766894935
+./outputs/137_100.out
+Warning: ./inputs/137_100.in ./outputs/137_100.out 46757.333333333336 0.580000661572558
+./outputs/289_200.out
+./inputs/289_200.in ./outputs/289_200.out 0.16031746031746033
+./outputs/76_100.out
+./inputs/76_100.in ./outputs/76_100.out 0.4414814814814815
+./outputs/132_200.out
+./inputs/132_200.in ./outputs/132_200.out 0.054099417737356235
+./outputs/73_200.out
+./inputs/73_200.in ./outputs/73_200.out 0.38063063063063063
+./outputs/285_200.out
+./inputs/285_200.in ./outputs/285_200.out 0.15306041791883365
+./outputs/233_50.out
+./inputs/233_50.in ./outputs/233_50.out 0.20754668496987086
+./outputs/276_50.out
+./inputs/276_50.in ./outputs/276_50.out 0.3727540140958541
+./outputs/25_50.out
+Warning: ./inputs/25_50.in ./outputs/25_50.out 16.666666666666668 0.462962962962963
+./outputs/60_50.out
+./inputs/60_50.in ./outputs/60_50.out 0.3559406745559928
+./outputs/146_100.out
+./inputs/146_100.in ./outputs/146_100.out 0.37109844779890094
+./outputs/132_50.out
+./inputs/132_50.in ./outputs/132_50.out 0.10911872705018359
+./outputs/177_50.out
+./inputs/177_50.in ./outputs/177_50.out 0.23299319727891157
+./outputs/64_100.out
+./inputs/64_100.in ./outputs/64_100.out 0.18486980130815747
+./outputs/125_100.out
+Warning: ./inputs/125_100.in ./outputs/125_100.out 20846709.14556666 0.999946539398534
+./outputs/151_200.out
+./inputs/151_200.in ./outputs/151_200.out 0.34231200897867564
+./outputs/10_200.out
+./inputs/10_200.in ./outputs/10_200.out 0.14621125338031624
+./outputs/103_100.out
+./inputs/103_100.in ./outputs/103_100.out 0.4242710655981902
+./outputs/42_100.out
+./inputs/42_100.in ./outputs/42_100.out 0.2651851851851852
+./outputs/36_200.out
+./inputs/36_200.in ./outputs/36_200.out 0.1782857142857143
+./outputs/177_200.out
+./inputs/177_200.in ./outputs/177_200.out 0.42692190823457915
+./outputs/55_200.out
+./inputs/55_200.in ./outputs/55_200.out 0.15058444285576014
+./outputs/114_200.out
+./inputs/114_200.in ./outputs/114_200.out 0.4294089261447443
+./outputs/28_200.out
+Warning: ./inputs/28_200.in ./outputs/28_200.out 630180408.2899935 0.8914746847168716
+./outputs/160_100.out
+./inputs/160_100.in ./outputs/160_100.out 0.24986449864498647
+./outputs/21_100.out
+Warning: ./inputs/21_100.in ./outputs/21_100.out 3236.6666666666665 0.49566105155691675
+./outputs/169_200.out
+./inputs/169_200.in ./outputs/169_200.out 0.3228592119992828
+./outputs/352_50.out
+./inputs/352_50.in ./outputs/352_50.out 0.26498002663115844
+./outputs/2_50.out
+./inputs/2_50.in ./outputs/2_50.out 0.2858246702949916
+./outputs/50_100.out
+./inputs/50_100.in ./outputs/50_100.out 0.2595294585431947
+./outputs/118_200.out
+./inputs/118_200.in ./outputs/118_200.out 0.12675809956704467
+./outputs/111_100.out
+./inputs/111_100.in ./outputs/111_100.out 0.2786596119929453
+./outputs/165_200.out
+./inputs/165_200.in ./outputs/165_200.out 0.4073601001318332
+./outputs/24_200.out
+Warning: ./inputs/24_200.in ./outputs/24_200.out 74.73333333333332 0.45156092648539786
+./outputs/21_50.out
+Warning: ./inputs/21_50.in ./outputs/21_50.out 1097.3333333333333 0.4883548434950304
+./outputs/64_50.out
+./inputs/64_50.in ./outputs/64_50.out 0.2033414832925835
+./outputs/106_200.out
+./inputs/106_200.in ./outputs/106_200.out 0.2623861899057439
+./outputs/136_50.out
+Warning: ./inputs/136_50.in ./outputs/136_50.out 24.666666666666668 0.9866666666666667
+./outputs/173_50.out
+./inputs/173_50.in ./outputs/173_50.out 0.23055555594586946
+./outputs/33_100.out
+./inputs/33_100.in ./outputs/33_100.out 0.22611440742431158
+./outputs/172_100.out
+./inputs/172_100.in ./outputs/172_100.out 0.09805045871559633
+./outputs/237_50.out
+./inputs/237_50.in ./outputs/237_50.out 0.20025839793281652
+./outputs/99_50.out
+./inputs/99_50.in ./outputs/99_50.out 0.28511557571793333
+./outputs/272_50.out
+Warning: ./inputs/272_50.in ./outputs/272_50.out 36962147092.04407 0.4898827796818216
+./outputs/290_100.out
+./inputs/290_100.in ./outputs/290_100.out 0.1574177801695234
+./outputs/66_100.out
+./inputs/66_100.in ./outputs/66_100.out 0.184105327874495
+./outputs/299_200.out
+./inputs/299_200.in ./outputs/299_200.out 0.20360766607863617
+./outputs/127_100.out
+Warning: ./inputs/127_100.in ./outputs/127_100.out 739.0 0.48940397350993375
+./outputs/153_200.out
+./inputs/153_200.in ./outputs/153_200.out 0.34028628638571
+./outputs/12_200.out
+./inputs/12_200.in ./outputs/12_200.out 0.2761142061281337
+./outputs/213_50.out
+Warning: ./inputs/213_50.in ./outputs/213_50.out 85.33333333333334 0.46630236794171226
+./outputs/256_50.out
+./inputs/256_50.in ./outputs/256_50.out 0.29484218629715164
+./outputs/130_200.out
+Warning: ./inputs/130_200.in ./outputs/130_200.out 73276353149.33333 0.4864945358300968
+./outputs/78_100.out
+Warning: ./inputs/78_100.in ./outputs/78_100.out 42.112133333333325 0.8217214872763199
+./outputs/139_100.out
+Warning: ./inputs/139_100.in ./outputs/139_100.out 67999999966.0 0.68
+./outputs/71_200.out
+./inputs/71_200.in ./outputs/71_200.out 0.018519400221820168
+./outputs/287_200.out
+./inputs/287_200.in ./outputs/287_200.out 0.16240227434257282
+./outputs/112_50.out
+./inputs/112_50.in ./outputs/112_50.out 0.30419538627036935
+./outputs/157_50.out
+./inputs/157_50.in ./outputs/157_50.out 0.29453669592326664
+./outputs/40_50.out
+Warning: ./inputs/40_50.in ./outputs/40_50.out 135570.6666666667 0.4725923137167412
+./outputs/144_100.out
+./inputs/144_100.in ./outputs/144_100.out 0.2710975758559225
+./outputs/135_100.out
+./inputs/135_100.in ./outputs/135_100.out 0.4387045499701967
+./outputs/282_100.out
+Warning: ./inputs/282_100.in ./outputs/282_100.out 47.33333333333333 0.4733333333333333
+./outputs/38_50.out
+./inputs/38_50.in ./outputs/38_50.out 0.2727854582693292
+./outputs/296_50.out
+./inputs/296_50.in ./outputs/296_50.out 0.3406330275093159
+./outputs/148_100.out
+./inputs/148_100.in ./outputs/148_100.out 0.2903225806451613
+./outputs/141_200.out
+./inputs/141_200.in ./outputs/141_200.out 0.12314225053078555
+./outputs/197_50.out
+Warning: ./inputs/197_50.in ./outputs/197_50.out 204.0 0.9902912621359223
+./outputs/295_200.out
+./inputs/295_200.in ./outputs/295_200.out 0.33480176211453744
+./outputs/63_200.out
+./inputs/63_200.in ./outputs/63_200.out 0.08658008658008658
+./outputs/122_200.out
+./inputs/122_200.in ./outputs/122_200.out 0.2977981452482644
+./outputs/156_100.out
+./inputs/156_100.in ./outputs/156_100.out 0.14635651293703056
+./outputs/17_100.out
+./inputs/17_100.in ./outputs/17_100.out 0.4155844155844156
+./outputs/195_50.out
+./inputs/195_50.in ./outputs/195_50.out 0.3325339728217426
+./outputs/181_100.out
+Warning: ./inputs/181_100.in ./outputs/181_100.out 45.0 0.8035714285714286
+./outputs/269_50.out
+./inputs/269_50.in ./outputs/269_50.out 0.3096685375280566
+./outputs/188_200.out
+./inputs/188_200.in ./outputs/188_200.out 0.4131299014187118
+./outputs/82_50.out
+./inputs/82_50.in ./outputs/82_50.out 0.173598651660958
+./outputs/236_100.out
+Warning: ./inputs/236_100.in ./outputs/236_100.out 142.0 0.46405228758169936
+./outputs/294_50.out
+Warning: ./inputs/294_50.in ./outputs/294_50.out 13.333333333333334 0.7843137254901961
+./outputs/242_200.out
+./inputs/242_200.in ./outputs/242_200.out 0.42101449275362324
+./outputs/168_50.out
+./inputs/168_50.in ./outputs/168_50.out 0.32502298768974586
+./outputs/342_200.out
+./inputs/342_200.in ./outputs/342_200.out 0.2526226576953686
+./outputs/228_100.out
+./inputs/228_100.in ./outputs/228_100.out 0.22939068100358423
+./outputs/321_200.out
+./inputs/321_200.in ./outputs/321_200.out 0.25087719298245614
+./outputs/196_200.out
+./inputs/196_200.in ./outputs/196_200.out 0.3112710120357732
+./outputs/2_100.out
+./inputs/2_100.in ./outputs/2_100.out 0.18088391619207017
+./outputs/255_100.out
+./inputs/255_100.in ./outputs/255_100.out 0.27460314164161875
+./outputs/331_50.out
+./inputs/331_50.in ./outputs/331_50.out 0.43585503651646684
+./outputs/7_200.out
+Warning: ./inputs/7_200.in ./outputs/7_200.out 858.6666666666666 0.5679012345679012
+./outputs/324_100.out
+./inputs/324_100.in ./outputs/324_100.out 0.3363996422639581
+./outputs/259_100.out
+./inputs/259_100.in ./outputs/259_100.out 0.26700680272108845
+./outputs/350_200.out
+./inputs/350_200.in ./outputs/350_200.out 0.14230873430081112
+./outputs/250_200.out
+./inputs/250_200.in ./outputs/250_200.out 0.26653569089718404
+./outputs/359_100.out
+Warning: ./inputs/359_100.in ./outputs/359_100.out 385.0 0.632183908045977
+./outputs/184_200.out
+./inputs/184_200.in ./outputs/184_200.out 0.278436018957346
+./outputs/42_50.out
+Warning: ./inputs/42_50.in ./outputs/42_50.out 23.333333333333332 0.8333333333333333
+./outputs/233_200.out
+./inputs/233_200.in ./outputs/233_200.out 0.12719717223781551
+./outputs/110_50.out
+./inputs/110_50.in ./outputs/110_50.out 0.2859842181700949
+./outputs/155_50.out
+./inputs/155_50.in ./outputs/155_50.out 0.3132233440039399
+./outputs/247_100.out
+./inputs/247_100.in ./outputs/247_100.out 0.2529328478964401
+./outputs/211_50.out
+./inputs/211_50.in ./outputs/211_50.out 0.20647773279352227
+./outputs/254_50.out
+./inputs/254_50.in ./outputs/254_50.out 0.2057142857142857
+./outputs/212_100.out
+./inputs/212_100.in ./outputs/212_100.out 0.441656866588266
+./outputs/99_100.out
+./inputs/99_100.in ./outputs/99_100.out 0.14294708378588533
+./outputs/366_200.out
+./inputs/366_200.in ./outputs/366_200.out 0.292497376455628
+./outputs/90_200.out
+./inputs/90_200.in ./outputs/90_200.out 0.40155945419103317
+./outputs/266_200.out
+Warning: ./inputs/266_200.in ./outputs/266_200.out 873859.5748533338 0.45149080423601734
+./outputs/235_50.out
+Warning: ./inputs/235_50.in ./outputs/235_50.out 1971.3333333333333 0.5918142699889922
+./outputs/305_200.out
+./inputs/305_200.in ./outputs/305_200.out 0.4261049579651645
+./outputs/205_200.out
+./inputs/205_200.in ./outputs/205_200.out 0.4199692033390064
+./outputs/134_50.out
+./inputs/134_50.in ./outputs/134_50.out 0.30303030303030304
+./outputs/171_50.out
+Warning: ./inputs/171_50.in ./outputs/171_50.out 15149492829.25769 0.5083473396498005
+./outputs/23_50.out
+./inputs/23_50.in ./outputs/23_50.out 0.2839506172839506
+./outputs/271_100.out
+./inputs/271_100.in ./outputs/271_100.out 0.20620138421909293
+./outputs/66_50.out
+./inputs/66_50.in ./outputs/66_50.out 0.15590054896344607
+./outputs/87_100.out
+./inputs/87_100.in ./outputs/87_100.out 0.0974702380952381
+./outputs/278_200.out
+Warning: ./inputs/278_200.in ./outputs/278_200.out 11392.185763333335 0.46803971682036427
+./outputs/300_100.out
+./inputs/300_100.in ./outputs/300_100.out 0.25823630025730326
+./outputs/209_200.out
+./inputs/209_200.in ./outputs/209_200.out 0.18433967809658242
+./outputs/309_200.out
+./inputs/309_200.in ./outputs/309_200.out 0.10435033461069118
+./outputs/200_100.out
+./inputs/200_100.in ./outputs/200_100.out 0.2444592850873275
+./outputs/109_50.out
+./inputs/109_50.in ./outputs/109_50.out 0.3398615865955461
+./outputs/274_200.out
+./inputs/274_200.in ./outputs/274_200.out 0.4161203644143959
+./outputs/82_200.out
+./inputs/82_200.in ./outputs/82_200.out 0.0449689299355795
+./outputs/208_50.out
+./inputs/208_50.in ./outputs/208_50.out 0.3236320612034301
+./outputs/350_50.out
+./inputs/350_50.in ./outputs/350_50.out 0.2173978187000673
+./outputs/315_50.out
+Warning: ./inputs/315_50.in ./outputs/315_50.out 4.218946666666666 0.6577500061062338
+./outputs/217_200.out
+./inputs/217_200.in ./outputs/217_200.out 0.17138194812312438
+./outputs/363_100.out
+Warning: ./inputs/363_100.in ./outputs/363_100.out 22.666666666666668 0.6126126126126127
+./outputs/95_100.out
+Warning: ./inputs/95_100.in ./outputs/95_100.out 37927654006.663025 0.5059988505757858
+./outputs/263_100.out
+Warning: ./inputs/263_100.in ./outputs/263_100.out 76.0 0.48717948717948717
+./outputs/188_100.out
+./inputs/188_100.in ./outputs/188_100.out 0.43514256329748296
+./outputs/236_200.out
+./inputs/236_200.in ./outputs/236_200.out 0.42696629213483145
+./outputs/57_50.out
+Warning: ./inputs/57_50.in ./outputs/57_50.out 3934.0 0.7026254688337203
+./outputs/181_200.out
+Warning: ./inputs/181_200.in ./outputs/181_200.out 89.33333333333334 0.6380952380952382
+./outputs/12_50.out
+./inputs/12_50.in ./outputs/12_50.out 0.4446627373935822
+./outputs/140_50.out
+./inputs/140_50.in ./outputs/140_50.out 0.19805132205139309
+./outputs/105_50.out
+./inputs/105_50.in ./outputs/105_50.out 0.3592902839168127
+./outputs/342_100.out
+./inputs/342_100.in ./outputs/342_100.out 0.3171153371202766
+./outputs/242_100.out
+Warning: ./inputs/242_100.in ./outputs/242_100.out 183.66666666666669 0.4591666666666667
+./outputs/241_50.out
+./inputs/241_50.in ./outputs/241_50.out 0.36568758697742565
+./outputs/204_50.out
+./inputs/204_50.in ./outputs/204_50.out 0.17233530797580196
+./outputs/2_200.out
+./inputs/2_200.in ./outputs/2_200.out 0.13327449891971685
+./outputs/228_200.out
+./inputs/228_200.in ./outputs/228_200.out 0.26643295354951796
+./outputs/321_100.out
+./inputs/321_100.in ./outputs/321_100.out 0.32820512820512826
+./outputs/196_100.out
+./inputs/196_100.in ./outputs/196_100.out 0.39288924385556684
+./outputs/319_50.out
+./inputs/319_50.in ./outputs/319_50.out 0.2318840579710145
+./outputs/255_200.out
+./inputs/255_200.in ./outputs/255_200.out 0.1586800803819549
+./outputs/324_200.out
+./inputs/324_200.in ./outputs/324_200.out 0.28324697754749567
+./outputs/7_100.out
+Warning: ./inputs/7_100.in ./outputs/7_100.out 487.3333333333333 0.5666666666666667
+./outputs/250_100.out
+./inputs/250_100.in ./outputs/250_100.out 0.16462793068297657
+./outputs/359_200.out
+Warning: ./inputs/359_200.in ./outputs/359_200.out 763.0 0.5046296296296297
+./outputs/259_200.out
+Warning: ./inputs/259_200.in ./outputs/259_200.out 20.0 0.5555555555555556
+./outputs/350_100.out
+./inputs/350_100.in ./outputs/350_100.out 0.11793278221266146
+./outputs/324_50.out
+./inputs/324_50.in ./outputs/324_50.out 0.3575050709939148
+./outputs/180_50.out
+Warning: ./inputs/180_50.in ./outputs/180_50.out 93.33333333333334 0.5156537753222836
+./outputs/239_50.out
+Warning: ./inputs/239_50.in ./outputs/239_50.out 29.0 0.58
+./outputs/97_50.out
+Warning: ./inputs/97_50.in ./outputs/97_50.out 59.33333333333333 0.4985994397759103
+./outputs/233_100.out
+./inputs/233_100.in ./outputs/233_100.out 0.19905604387716389
+./outputs/184_100.out
+./inputs/184_100.in ./outputs/184_100.out 0.2792259083728278
+./outputs/281_50.out
+./inputs/281_50.in ./outputs/281_50.out 0.2957988557896273
+./outputs/247_200.out
+./inputs/247_200.in ./outputs/247_200.out 0.15520694259012016
+./outputs/300_50.out
+./inputs/300_50.in ./outputs/300_50.out 0.34502590520802434
+./outputs/345_50.out
+./inputs/345_50.in ./outputs/345_50.out 0.24184596195821637
+./outputs/212_200.out
+./inputs/212_200.in ./outputs/212_200.out 0.3128583441632903
+./outputs/90_100.out
+Warning: ./inputs/90_100.in ./outputs/90_100.out 43.333333333333336 0.4814814814814815
+./outputs/266_100.out
+Warning: ./inputs/266_100.in ./outputs/266_100.out 38709.370579999995 0.45495500996103977
+./outputs/99_200.out
+./inputs/99_200.in ./outputs/99_200.out 0.16681862427263747
+./outputs/366_100.out
+./inputs/366_100.in ./outputs/366_100.out 0.2729406109954363
+./outputs/205_100.out
+./inputs/205_100.in ./outputs/205_100.out 0.43552845528455286
+./outputs/305_100.out
+Warning: ./inputs/305_100.in ./outputs/305_100.out 40901634217.78823 0.4970826195566741
+./outputs/278_100.out
+Warning: ./inputs/278_100.in ./outputs/278_100.out 2939.805866666667 0.4561092054184163
+./outputs/258_50.out
+./inputs/258_50.in ./outputs/258_50.out 0.3935196598307817
+./outputs/271_200.out
+./inputs/271_200.in ./outputs/271_200.out 0.10899780276170455
+./outputs/87_200.out
+./inputs/87_200.in ./outputs/87_200.out 0.07897071872227152
+./outputs/265_50.out
+Warning: ./inputs/265_50.in ./outputs/265_50.out 58.0 0.651685393258427
+./outputs/220_50.out
+Warning: ./inputs/220_50.in ./outputs/220_50.out 6433.333333333333 0.8577777777777778
+./outputs/309_100.out
+./inputs/309_100.in ./outputs/309_100.out 0.23584889674516496
+./outputs/200_200.out
+./inputs/200_200.in ./outputs/200_200.out 0.1468608417729643
+./outputs/300_200.out
+./inputs/300_200.in ./outputs/300_200.out 0.2564870718628168
+./outputs/209_100.out
+./inputs/209_100.in ./outputs/209_100.out 0.17395019385885738
+./outputs/199_50.out
+Warning: ./inputs/199_50.in ./outputs/199_50.out 225.0 1.0
+./outputs/164_50.out
+./inputs/164_50.in ./outputs/164_50.out 0.3558539222232821
+./outputs/121_50.out
+Warning: ./inputs/121_50.in ./outputs/121_50.out 122.66666666666667 0.555052790346908
+./outputs/73_50.out
+./inputs/73_50.in ./outputs/73_50.out 0.4113475177304965
+./outputs/274_100.out
+Warning: ./inputs/274_100.in ./outputs/274_100.out 16290.0 0.4559959690964058
+./outputs/36_50.out
+./inputs/36_50.in ./outputs/36_50.out 0.37820512820512814
+./outputs/298_50.out
+./inputs/298_50.in ./outputs/298_50.out 0.3868926553672316
+./outputs/82_100.out
+./inputs/82_100.in ./outputs/82_100.out 0.10478072342060486
+./outputs/217_100.out
+./inputs/217_100.in ./outputs/217_100.out 0.26444191875490813
+./outputs/95_200.out
+Warning: ./inputs/95_200.in ./outputs/95_200.out 73622854357.10991 0.488635454438077
+./outputs/263_200.out
+Warning: ./inputs/263_200.in ./outputs/263_200.out 76.0 0.48717948717948717
+./outputs/363_200.out
+Warning: ./inputs/363_200.in ./outputs/363_200.out 34.666666666666664 0.5502645502645502
+./outputs/42_200.out
+./inputs/42_200.in ./outputs/42_200.out 0.3699268130405855
+./outputs/71_50.out
+./inputs/71_50.in ./outputs/71_50.out 0.19902031304946302
+./outputs/34_50.out
+Warning: ./inputs/34_50.in ./outputs/34_50.out 4.0 0.5714285714285714
+./outputs/103_200.out
+./inputs/103_200.in ./outputs/103_200.out 0.40479161492137056
+./outputs/166_50.out
+Warning: ./inputs/166_50.in ./outputs/166_50.out 11.733333333333333 0.6308243727598566
+./outputs/123_50.out
+./inputs/123_50.in ./outputs/123_50.out 0.3329920793146183
+./outputs/177_100.out
+./inputs/177_100.in ./outputs/177_100.out 0.34867404468573815
+./outputs/36_100.out
+./inputs/36_100.in ./outputs/36_100.out 0.18137254901960784
+./outputs/267_50.out
+Warning: ./inputs/267_50.in ./outputs/267_50.out 14.799999999999999 0.513888888888889
+./outputs/222_50.out
+Warning: ./inputs/222_50.in ./outputs/222_50.out 0.01651 0.5625212947189097
+./outputs/114_100.out
+./inputs/114_100.in ./outputs/114_100.out 0.4160513995389758
+./outputs/55_100.out
+./inputs/55_100.in ./outputs/55_100.out 0.19267858598685703
+./outputs/21_200.out
+./inputs/21_200.in ./outputs/21_200.out 0.4421466632834306
+./outputs/169_100.out
+./inputs/169_100.in ./outputs/169_100.out 0.4255284392027085
+./outputs/28_100.out
+Warning: ./inputs/28_100.in ./outputs/28_100.out 4950086584.59804 0.5110956000487268
+./outputs/160_200.out
+./inputs/160_200.in ./outputs/160_200.out 0.2769010043041607
+./outputs/111_200.out
+./inputs/111_200.in ./outputs/111_200.out 0.28920409771473604
+./outputs/50_200.out
+./inputs/50_200.in ./outputs/50_200.out 0.1720436140080475
+./outputs/118_100.out
+./inputs/118_100.in ./outputs/118_100.out 0.12387489507150388
+./outputs/24_100.out
+Warning: ./inputs/24_100.in ./outputs/24_100.out 39.66666666666668 0.46502540054708885
+./outputs/165_100.out
+Warning: ./inputs/165_100.in ./outputs/165_100.out 136.14666666666665 0.513122024146032
+./outputs/106_100.out
+./inputs/106_100.in ./outputs/106_100.out 0.3541179902086003
+./outputs/172_200.out
+Warning: ./inputs/172_200.in ./outputs/172_200.out 14948030.666666666 0.6527580177833254
+./outputs/33_200.out
+./inputs/33_200.in ./outputs/33_200.out 0.14454079254079255
+./outputs/326_50.out
+Warning: ./inputs/326_50.in ./outputs/326_50.out 999.5924333333332 0.4770724223150613
+./outputs/363_50.out
+Warning: ./inputs/363_50.in ./outputs/363_50.out 16.0 0.6153846153846154
+./outputs/299_100.out
+./inputs/299_100.in ./outputs/299_100.out 0.23548711397206848
+./outputs/127_200.out
+./inputs/127_200.in ./outputs/127_200.out 0.4474708171206226
+./outputs/290_200.out
+./inputs/290_200.in ./outputs/290_200.out 0.15545045553517126
+./outputs/66_200.out
+./inputs/66_200.in ./outputs/66_200.out 0.08952678492789369
+./outputs/12_100.out
+./inputs/12_100.in ./outputs/12_100.out 0.35177759957230686
+./outputs/153_100.out
+./inputs/153_100.in ./outputs/153_100.out 0.39254053147092793
+./outputs/139_200.out
+Warning: ./inputs/139_200.in ./outputs/139_200.out 133333333266.66667 0.6734006734006734
+./outputs/71_100.out
+./inputs/71_100.in ./outputs/71_100.out 0.04752194611827209
+./outputs/287_100.out
+Warning: ./inputs/287_100.in ./outputs/287_100.out 500274.6666666667 0.9988911739845191
+./outputs/130_100.out
+Warning: ./inputs/130_100.in ./outputs/130_100.out 37522873028.0 0.48732045964743326
+./outputs/78_200.out
+./inputs/78_200.in ./outputs/78_200.out 0.1899422724999687
+./outputs/68_50.out
+./inputs/68_50.in ./outputs/68_50.out 0.36342797262337495
+./outputs/144_200.out
+./inputs/144_200.in ./outputs/144_200.out 0.22101786155954967
+./outputs/95_50.out
+Warning: ./inputs/95_50.in ./outputs/95_50.out 20872072128.880238 0.5121435340635992
+./outputs/182_50.out
+./inputs/182_50.in ./outputs/182_50.out 0.43453583859500056
+./outputs/206_50.out
+./inputs/206_50.in ./outputs/206_50.out 0.4409448067327463
+./outputs/282_200.out
+Warning: ./inputs/282_200.in ./outputs/282_200.out 91.33333333333333 0.4659863945578231
+./outputs/135_200.out
+./inputs/135_200.in ./outputs/135_200.out 0.19017582211141373
+./outputs/142_50.out
+Warning: ./inputs/142_50.in ./outputs/142_50.out 993.3333333333334 0.528931487397941
+./outputs/107_50.out
+Warning: ./inputs/107_50.in ./outputs/107_50.out 0.019340000000000003 0.5728672985781992
+./outputs/141_100.out
+./inputs/141_100.in ./outputs/141_100.out 0.12314225053078555
+./outputs/55_50.out
+./inputs/55_50.in ./outputs/55_50.out 0.414946701730017
+./outputs/148_200.out
+./inputs/148_200.in ./outputs/148_200.out 0.43333333333333335
+./outputs/10_50.out
+./inputs/10_50.in ./outputs/10_50.out 0.22495577432740804
+./outputs/122_100.out
+./inputs/122_100.in ./outputs/122_100.out 0.28434619943471856
+./outputs/295_100.out
+./inputs/295_100.in ./outputs/295_100.out 0.3618233618233618
+./outputs/63_100.out
+./inputs/63_100.in ./outputs/63_100.out 0.16310975609756098
+./outputs/17_200.out
+./inputs/17_200.in ./outputs/17_200.out 0.10362802335279399
+./outputs/156_200.out
+./inputs/156_200.in ./outputs/156_200.out 0.11338776083430582
+./outputs/45_100.out
+./inputs/45_100.in ./outputs/45_100.out 0.41391579564921993
+./outputs/104_100.out
+./inputs/104_100.in ./outputs/104_100.out 0.30144569380946495
+./outputs/186_50.out
+./inputs/186_50.in ./outputs/186_50.out 0.1467935341899637
+./outputs/38_100.out
+./inputs/38_100.in ./outputs/38_100.out 0.3362212304191826
+./outputs/170_200.out
+./inputs/170_200.in ./outputs/170_200.out 0.43921568627450985
+./outputs/31_200.out
+./inputs/31_200.in ./outputs/31_200.out 0.056061422965170055
+./outputs/179_100.out
+Warning: ./inputs/179_100.in ./outputs/179_100.out 399.84639999999996 0.46553252755177515
+./outputs/287_50.out
+./inputs/287_50.in ./outputs/287_50.out 0.22598870056497175
+./outputs/29_50.out
+./inputs/29_50.in ./outputs/29_50.out 0.22264051659008702
+./outputs/113_200.out
+./inputs/113_200.in ./outputs/113_200.out 0.4305287946906445
+./outputs/52_200.out
+./inputs/52_200.in ./outputs/52_200.out 0.4273504273504274
+./outputs/322_50.out
+Warning: ./inputs/322_50.in ./outputs/322_50.out 36.666666666666664 1.264367816091954
+./outputs/26_100.out
+Warning: ./inputs/26_100.in ./outputs/26_100.out 426.3333333333333 0.5594925634295713
+./outputs/167_100.out
+./inputs/167_100.in ./outputs/167_100.out 0.36054421768707484
+./outputs/116_100.out
+./inputs/116_100.in ./outputs/116_100.out 0.36720430107526886
+./outputs/57_100.out
+./inputs/57_100.in ./outputs/57_100.out 0.31852811214383664
+./outputs/23_200.out
+./inputs/23_200.in ./outputs/23_200.out 0.13212435233160622
+./outputs/162_200.out
+./inputs/162_200.in ./outputs/162_200.out 0.4058873736134797
+./outputs/146_50.out
+./inputs/146_50.in ./outputs/146_50.out 0.2987676377361943
+./outputs/103_50.out
+Warning: ./inputs/103_50.in ./outputs/103_50.out 346.14719999999994 0.5407988921149429
+./outputs/40_200.out
+./inputs/40_200.in ./outputs/40_200.out 0.39971257578291686
+./outputs/108_100.out
+Warning: ./inputs/108_100.in ./outputs/108_100.out 6985849597.333333 0.9841469826617864
+./outputs/51_50.out
+Warning: ./inputs/51_50.in ./outputs/51_50.out 517305.3333333333 0.5019029360323719
+./outputs/49_100.out
+Warning: ./inputs/49_100.in ./outputs/49_100.out 1933.3333333333333 0.4529834426741643
+./outputs/14_50.out
+./inputs/14_50.in ./outputs/14_50.out 0.3204135934569989
+./outputs/101_200.out
+./inputs/101_200.in ./outputs/101_200.out 0.32568467801628426
+./outputs/247_50.out
+Warning: ./inputs/247_50.in ./outputs/247_50.out 793.3333333333334 0.4522995058912961
+./outputs/202_50.out
+./inputs/202_50.in ./outputs/202_50.out 0.20949139675231762
+./outputs/175_100.out
+./inputs/175_100.in ./outputs/175_100.out 0.23525122160013084
+./outputs/34_100.out
+Warning: ./inputs/34_100.in ./outputs/34_100.out 33.333333333333336 0.4975124378109453
+./outputs/120_100.out
+./inputs/120_100.in ./outputs/120_100.out 0.09420289855072463
+./outputs/68_200.out
+./inputs/68_200.in ./outputs/68_200.out 0.17179101072324893
+./outputs/297_100.out
+Warning: ./inputs/297_100.in ./outputs/297_100.out 16228.666666666666 0.6093671773305297
+./outputs/61_100.out
+./inputs/61_100.in ./outputs/61_100.out 0.2972885649926901
+./outputs/15_200.out
+./inputs/15_200.in ./outputs/15_200.out 0.24742230037233515
+./outputs/154_200.out
+Warning: ./inputs/154_200.in ./outputs/154_200.out 1952.6666666666667 0.6502386502386502
+./outputs/76_200.out
+./inputs/76_200.in ./outputs/76_200.out 0.44260027662517293
+./outputs/137_200.out
+./inputs/137_200.in ./outputs/137_200.out 0.4427654826111214
+./outputs/289_100.out
+./inputs/289_100.in ./outputs/289_100.out 0.16840277777777776
+./outputs/263_50.out
+Warning: ./inputs/263_50.in ./outputs/263_50.out 76.0 0.48717948717948717
+./outputs/88_50.out
+./inputs/88_50.in ./outputs/88_50.out 0.18131068119356472
+./outputs/226_50.out
+Warning: ./inputs/226_50.in ./outputs/226_50.out 8616.0 0.606846034652768
+./outputs/75_50.out
+./inputs/75_50.in ./outputs/75_50.out 0.15668202764976957
+./outputs/30_50.out
+./inputs/30_50.in ./outputs/30_50.out 0.2826350418656333
+./outputs/162_50.out
+Warning: ./inputs/162_50.in ./outputs/162_50.out 2905771992.3333335 0.46729449124539696
+./outputs/127_50.out
+Warning: ./inputs/127_50.in ./outputs/127_50.out 294.33333333333337 0.46498156924697215
+./outputs/48_50.out
+Warning: ./inputs/48_50.in ./outputs/48_50.out 3413.3333333333335 0.5555555555555556
+./outputs/73_100.out
+./inputs/73_100.in ./outputs/73_100.out 0.37071651090342683
+./outputs/285_100.out
+./inputs/285_100.in ./outputs/285_100.out 0.17683563217483697
+./outputs/132_100.out
+./inputs/132_100.in ./outputs/132_100.out 0.13172422815279955
+./outputs/146_200.out
+./inputs/146_200.in ./outputs/146_200.out 0.19985876862628943
+./outputs/125_200.out
+Warning: ./inputs/125_200.in ./outputs/125_200.out 37259185.95703333 0.9998795160828692
+./outputs/64_200.out
+Warning: ./inputs/64_200.in ./outputs/64_200.out 100.33333333333333 0.5041876046901173
